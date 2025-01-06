@@ -21,6 +21,8 @@ inputtext = st.text_area("Hi Please Enter text here to Translate",height=100)
 
 choice = st.sidebar.radio('SELECT LANGUAGE',langlist)
 
+'''adding comment here'''
+
 speech_langs = {
     "af": "Afrikaans",
     "ar": "Arabic",
