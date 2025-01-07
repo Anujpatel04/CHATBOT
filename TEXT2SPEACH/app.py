@@ -22,7 +22,8 @@ inputtext = st.text_area("Hi Please Enter text here to Translate",height=100)
 choice = st.sidebar.radio('SELECT LANGUAGE',langlist)
 
 '''adding comment here'''
-
+#I can see a comeent inserted from macos is being add here as I have passed a pull request into this system
+# now I am making few changes here to make more commitis and make sure that my git is working properly.
 speech_langs = {
     "af": "Afrikaans",
     "ar": "Arabic",
